@@ -1,4 +1,5 @@
 # learnGitHub
 this is my first repository
 <br>
-author - Harsh
+author - Harsh patidar
+
